@@ -2,7 +2,7 @@
 
 这是一个由 vite 作为构建工具并且使用 typescript 作为主要开发语言的 javascript 库项目开发模板, 该模板除 vite 以及 typescript 相关工具之外没有任何其他依赖.
 
-English | 简体中文
+[English](https://github.com/hacxy/library-empty-template?tab=readme-ov-file#library-empty-template) | 简体中文
 
 ## 使用模板
 

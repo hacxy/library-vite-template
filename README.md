@@ -2,7 +2,7 @@
 
 This is a javascript library project development template that uses vite as the build tool and typescript as the main development language. The template has no other dependencies except for vite and typescript related tools.
 
-English | 简体中文
+English | [简体中文](https://github.com/hacxy/library-empty-template/blob/main/README_zh.md#library-empty-template)
 
 ## Using the Template
 
